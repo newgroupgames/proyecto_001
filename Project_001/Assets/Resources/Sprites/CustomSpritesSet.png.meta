@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 662bedf96ba4d5a42bc15ce58ab168f3
+timeCreated: 1468215687
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CustomSpritesSet_0
+    21300002: CustomSpritesSet_1
+    21300004: CustomSpritesSet_2
+    21300006: CustomSpritesSet_3
+    21300008: CustomSpritesSet_4
+    21300010: CustomSpritesSet_5
+    21300012: CustomSpritesSet_6
+    21300014: CustomSpritesSet_7
+    21300016: CustomSpritesSet_8
+    21300018: CustomSpritesSet_9
+    21300020: CustomSpritesSet_10
+    21300022: CustomSpritesSet_11
+    21300024: CustomSpritesSet_12
+    21300026: CustomSpritesSet_13
+    21300028: CustomSpritesSet_14
+    21300030: CustomSpritesSet_15
+    21300032: CustomSpritesSet_16
+    21300034: CustomSpritesSet_17
+    21300036: CustomSpritesSet_18
+    21300038: CustomSpritesSet_19
+    21300040: CustomSpritesSet_20
+    21300042: CustomSpritesSet_21
+    21300044: CustomSpritesSet_22
+    21300046: CustomSpritesSet_23
+    21300048: CustomSpritesSet_24
+    21300050: CustomSpritesSet_25
+    21300052: CustomSpritesSet_26
+    21300054: CustomSpritesSet_27
+    21300056: CustomSpritesSet_28
+    21300058: CustomSpritesSet_29
+    21300060: CustomSpritesSet_30
+    21300062: CustomSpritesSet_31
+    21300064: CustomSpritesSet_32
+    21300066: CustomSpritesSet_33
+    21300068: CustomSpritesSet_34
+    21300070: CustomSpritesSet_35
+    21300072: CustomSpritesSet_36
+    21300074: CustomSpritesSet_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CustomSpritesSet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 675
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 676
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 678
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 50}
+        - {x: -50, y: 48}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 679
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 50}
+        - {x: -50, y: 33}
+        - {x: -50, y: -31}
+        - {x: -41, y: -50}
+        - {x: 46, y: -50}
+        - {x: 50, y: -34}
+        - {x: 50, y: 32}
+        - {x: 22, y: 50}
+    - name: CustomSpritesSet_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 685
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 43}
+        - {x: -50, y: 34}
+        - {x: -50, y: -17}
+        - {x: -21, y: -43}
+        - {x: 13, y: -43}
+        - {x: 50, y: -10}
+        - {x: 50, y: 33}
+        - {x: 40, y: 43}
+    - name: CustomSpritesSet_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 682
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 50}
+        - {x: -20, y: 44}
+        - {x: -26, y: 40}
+        - {x: -50, y: -29}
+        - {x: -50, y: -50}
+        - {x: -17, y: -50}
+        - {x: 43, y: -47}
+        - {x: 50, y: -34}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 560
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -49}
+        - {x: 17.5, y: -49}
+        - {x: 49.5, y: -22}
+        - {x: 49.5, y: 12}
+        - {x: 19.5, y: 49}
+        - {x: -1.5, y: 49}
+        - {x: -49.5, y: 36}
+        - {x: -49.5, y: -33}
+    - name: CustomSpritesSet_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 557
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 49}
+        - {x: -49, y: 7}
+        - {x: -49, y: -14}
+        - {x: -29, y: -49}
+        - {x: 30, y: -49}
+        - {x: 49, y: -14}
+        - {x: 49, y: 7}
+        - {x: 31, y: 49}
+    - name: CustomSpritesSet_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 560
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 49}
+        - {x: -17, y: 49}
+        - {x: -44, y: 38}
+        - {x: -49, y: 16}
+        - {x: -49, y: -49}
+        - {x: 49, y: -49}
+        - {x: 49, y: 15}
+        - {x: 39, y: 44}
+    - name: CustomSpritesSet_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 562
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 49}
+        - {x: -49, y: -44}
+        - {x: -38, y: -49}
+        - {x: 28, y: -49}
+        - {x: 34, y: -46}
+        - {x: 49, y: -38}
+        - {x: 49, y: 49}
+    - name: CustomSpritesSet_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 550
+        width: 50
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 52.5}
+        - {x: -25, y: -38.5}
+        - {x: -22, y: -52.5}
+        - {x: 25, y: -52.5}
+        - {x: 25, y: 39.5}
+        - {x: -12, y: 52.5}
+    - name: CustomSpritesSet_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 557
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -36}
+        - {x: -36, y: -50}
+        - {x: 38, y: -50}
+        - {x: 50, y: -48}
+        - {x: 50, y: 40}
+        - {x: 38, y: 50}
+    - name: CustomSpritesSet_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 449
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 49}
+        - {x: -27, y: 49}
+        - {x: -48, y: 43}
+        - {x: -48, y: -36}
+        - {x: 5, y: -49}
+        - {x: 14, y: -49}
+        - {x: 15, y: -31}
+        - {x: 48, y: -4}
+        - {x: 48, y: 6}
+    - name: CustomSpritesSet_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 449
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 48.5}
+        - {x: -49, y: 35.5}
+        - {x: -49, y: -34.5}
+        - {x: 1, y: -48.5}
+        - {x: 18, y: -48.5}
+        - {x: 49, y: -18.5}
+        - {x: 49, y: 11.5}
+        - {x: 26, y: 48.5}
+    - name: CustomSpritesSet_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 452
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 45.5}
+        - {x: -20, y: 45.5}
+        - {x: -46, y: 30.5}
+        - {x: -46, y: -35.5}
+        - {x: -1, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 46, y: -7.5}
+        - {x: 46, y: 6.5}
+        - {x: 39, y: 19.5}
+    - name: CustomSpritesSet_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 454
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 41}
+        - {x: -41.5, y: 39}
+        - {x: -41.5, y: -31}
+        - {x: -40.5, y: -32}
+        - {x: -2.5, y: -41}
+        - {x: 18.5, y: -41}
+        - {x: 41.5, y: -19}
+        - {x: 41.5, y: 14}
+        - {x: 25.5, y: 41}
+    - name: CustomSpritesSet_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 436
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 12}
+        - {x: 30.5, y: 12}
+        - {x: 34.5, y: 16}
+        - {x: 39.5, y: 20}
+        - {x: 46.5, y: 26}
+        - {x: 45.5, y: 30}
+        - {x: 29.5, y: 49}
+        - {x: 2.5, y: 49}
+        - {x: 1.5, y: 48}
+        - {x: -1.5, y: 49}
+        - {x: -39.5, y: 49}
+        - {x: -48.5, y: 21}
+        - {x: -48.5, y: -49}
+        - {x: 48.5, y: -49}
+        - {x: 48.5, y: 10}
+        - {x: 42.5, y: 12}
+    - name: CustomSpritesSet_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 428
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 48}
+        - {x: -50, y: 1}
+        - {x: -50, y: -15}
+        - {x: -36, y: -24}
+        - {x: -9, y: -48}
+        - {x: -4, y: -48}
+        - {x: 50, y: 10}
+        - {x: 50, y: 48}
+    - name: CustomSpritesSet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 332
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 49}
+        - {x: -26.5, y: 37}
+        - {x: -49.5, y: 4}
+        - {x: -49.5, y: -4}
+        - {x: -30.5, y: -49}
+        - {x: 26.5, y: -49}
+        - {x: 49.5, y: -23}
+        - {x: 49.5, y: 12}
+        - {x: 26.5, y: 49}
+    - name: CustomSpritesSet_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 335
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 49}
+        - {x: -27.5, y: 49}
+        - {x: -49.5, y: 13}
+        - {x: -49.5, y: -9}
+        - {x: -26.5, y: -49}
+        - {x: 29.5, y: -49}
+        - {x: 49.5, y: -4}
+        - {x: 49.5, y: 4}
+    - name: CustomSpritesSet_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 338
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 45.5}
+        - {x: -46, y: 35.5}
+        - {x: -46, y: -45.5}
+        - {x: 35, y: -45.5}
+        - {x: 44, y: -42.5}
+        - {x: 46, y: -28.5}
+        - {x: 46, y: 13.5}
+        - {x: 26, y: 45.5}
+    - name: CustomSpritesSet_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 347
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 41.5}
+        - {x: -43, y: 9.5}
+        - {x: -43, y: -15.5}
+        - {x: -27, y: -38.5}
+        - {x: -24, y: -41.5}
+        - {x: 36, y: -41.5}
+        - {x: 43, y: -22.5}
+        - {x: 43, y: 22.5}
+        - {x: 27, y: 41.5}
+    - name: CustomSpritesSet_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 306
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 50}
+        - {x: -50, y: 33}
+        - {x: -50, y: -31}
+        - {x: -41, y: -50}
+        - {x: 46, y: -50}
+        - {x: 50, y: -34}
+        - {x: 50, y: 32}
+        - {x: 22, y: 50}
+      - - {x: -34, y: -26}
+        - {x: -40, y: 16}
+        - {x: 16, y: 40}
+        - {x: 14, y: -40}
+    - name: CustomSpritesSet_23
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 302
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -43, y: 43}
+        - {x: 43, y: 43}
+        - {x: 43, y: -43}
+        - {x: -43, y: -43}
+    - name: CustomSpritesSet_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 217
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 48}
+        - {x: -38.5, y: 48}
+        - {x: -48.5, y: 39}
+        - {x: -48.5, y: -40}
+        - {x: -38.5, y: -48}
+        - {x: 48.5, y: -48}
+        - {x: 48.5, y: 35}
+        - {x: 33.5, y: 46}
+    - name: CustomSpritesSet_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 219
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 37}
+        - {x: 29.5, y: 37}
+        - {x: 3.5, y: 49}
+        - {x: -10.5, y: 49}
+        - {x: -37.5, y: 43}
+        - {x: -48.5, y: 8}
+        - {x: -48.5, y: -7}
+        - {x: -43.5, y: -39}
+        - {x: -5.5, y: -49}
+        - {x: 9.5, y: -49}
+        - {x: 36.5, y: -39}
+        - {x: 48.5, y: -15}
+        - {x: 48.5, y: 11}
+    - name: CustomSpritesSet_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 222
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 33.5}
+        - {x: 33.5, y: 36.5}
+        - {x: 18.5, y: 46.5}
+        - {x: -27.5, y: 46.5}
+        - {x: -39.5, y: 42.5}
+        - {x: -46.5, y: 21.5}
+        - {x: -46.5, y: -12.5}
+        - {x: -35.5, y: -42.5}
+        - {x: -13.5, y: -46.5}
+        - {x: 11.5, y: -46.5}
+        - {x: 38.5, y: -33.5}
+        - {x: 46.5, y: -4.5}
+        - {x: 46.5, y: 9.5}
+    - name: CustomSpritesSet_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 231
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 43.5}
+        - {x: -30.5, y: 43.5}
+        - {x: -43.5, y: 32.5}
+        - {x: -43.5, y: -29.5}
+        - {x: -28.5, y: -43.5}
+        - {x: 29.5, y: -43.5}
+        - {x: 43.5, y: -35.5}
+        - {x: 43.5, y: 11.5}
+        - {x: 31.5, y: 35.5}
+    - name: CustomSpritesSet_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 179
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 178
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -43, y: -44}
+        - {x: -41, y: -13}
+        - {x: -42, y: 38}
+        - {x: -43, y: 43}
+        - {x: -46, y: 46}
+        - {x: -44, y: 46}
+        - {x: -42, y: 44}
+        - {x: -36, y: 42}
+        - {x: -13, y: 40}
+        - {x: 42, y: 44}
+        - {x: 44, y: 46}
+        - {x: 46, y: 46}
+        - {x: 39, y: 39}
+        - {x: 39, y: 7}
+        - {x: 43, y: -44}
+        - {x: 46, y: -47}
+        - {x: 46, y: -46}
+        - {x: 44, y: -46}
+        - {x: 42, y: -44}
+        - {x: 23, y: -41}
+        - {x: -30, y: -41}
+        - {x: -42, y: -44}
+        - {x: -44, y: -46}
+        - {x: -46, y: -46}
+        - {x: -46, y: -47}
+    - name: CustomSpritesSet_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -50, y: 4}
+        - {x: -50, y: -3}
+        - {x: -20, y: -34}
+        - {x: -3, y: -50}
+        - {x: 8, y: -50}
+        - {x: 50, y: -11}
+        - {x: 50, y: 11}
+        - {x: 4, y: 50}
+    - name: CustomSpritesSet_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 34.5}
+        - {x: -50, y: 19.5}
+        - {x: -50, y: -19.5}
+        - {x: -8, y: -34.5}
+        - {x: 29, y: -34.5}
+        - {x: 50, y: -3.5}
+        - {x: 50, y: 2.5}
+        - {x: 18, y: 34.5}
+    - name: CustomSpritesSet_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 182
+        width: 99
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CustomSpritesSet_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 34
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 36}
+        - {x: -15.5, y: 36}
+        - {x: -49.5, y: 19}
+        - {x: -49.5, y: -20}
+        - {x: -1.5, y: -36}
+        - {x: 7.5, y: -36}
+        - {x: 27.5, y: -21}
+        - {x: 49.5, y: -3}
+        - {x: 49.5, y: 7}
+    - name: CustomSpritesSet_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 52
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 55
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 47, y: -50}
+        - {x: 50, y: -45}
+        - {x: 50, y: 50}
+    - name: CustomSpritesSet_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 55
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 50}
+        - {x: -50, y: -43}
+        - {x: -50, y: -50}
+        - {x: -47, y: -50}
+        - {x: 50, y: 47}
+        - {x: 50, y: 50}
+      - - {x: -40, y: -49}
+        - {x: -40, y: -50}
+        - {x: -31, y: -50}
+        - {x: 50, y: 31}
+        - {x: 50, y: 40}
+        - {x: 49, y: 40}
+      - - {x: -24, y: -49}
+        - {x: -24, y: -50}
+        - {x: -15, y: -50}
+        - {x: 50, y: 15}
+        - {x: 50, y: 24}
+        - {x: 49, y: 24}
+      - - {x: -8, y: -49}
+        - {x: -8, y: -50}
+        - {x: 1, y: -50}
+        - {x: 50, y: -1}
+        - {x: 50, y: 8}
+        - {x: 49, y: 8}
+      - - {x: 8, y: -49}
+        - {x: 8, y: -50}
+        - {x: 17, y: -50}
+        - {x: 50, y: -17}
+        - {x: 50, y: -8}
+        - {x: 49, y: -8}
+      - - {x: 25, y: -49}
+        - {x: 25, y: -50}
+        - {x: 33, y: -50}
+        - {x: 50, y: -33}
+        - {x: 50, y: -25}
+        - {x: 49, y: -25}
+      - - {x: 41, y: -49}
+        - {x: 41, y: -50}
+        - {x: 49, y: -50}
+        - {x: 50, y: -49}
+        - {x: 50, y: -41}
+        - {x: 49, y: -41}
+      - - {x: 29, y: 50}
+        - {x: -50, y: -29}
+        - {x: -50, y: -37}
+        - {x: -49, y: -37}
+        - {x: 37, y: 49}
+        - {x: 37, y: 50}
+      - - {x: 14, y: 50}
+        - {x: -50, y: -14}
+        - {x: -50, y: -22}
+        - {x: -49, y: -22}
+        - {x: 22, y: 49}
+        - {x: 22, y: 50}
+      - - {x: -1, y: 50}
+        - {x: -50, y: 1}
+        - {x: -50, y: -7}
+        - {x: -49, y: -7}
+        - {x: 7, y: 49}
+        - {x: 7, y: 50}
+      - - {x: -16, y: 50}
+        - {x: -50, y: 16}
+        - {x: -50, y: 8}
+        - {x: -49, y: 8}
+        - {x: -8, y: 49}
+        - {x: -8, y: 50}
+      - - {x: -32, y: 50}
+        - {x: -50, y: 32}
+        - {x: -50, y: 23}
+        - {x: -49, y: 23}
+        - {x: -23, y: 49}
+        - {x: -23, y: 50}
+      - - {x: -46, y: 50}
+        - {x: -50, y: 46}
+        - {x: -50, y: 38}
+        - {x: -49, y: 38}
+        - {x: -38, y: 49}
+        - {x: -38, y: 50}
+    - name: CustomSpritesSet_37
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 54
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -50, y: -50}
+        - {x: 50, y: -50}
+        - {x: 50, y: 50}
+      - - {x: -39, y: -36}
+        - {x: -1, y: 39}
+        - {x: 36, y: 38}
+        - {x: 24, y: -36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
