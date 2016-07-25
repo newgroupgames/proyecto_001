@@ -7,7 +7,6 @@ public class Saltar : MonoBehaviour
     Transform pies;
     Vector2 dobleSalto;
 
-    Transform body;
     Vector2 pointVector;
 
     float fuerzaDeSalto = 8f;// 1 cuadro es 6.5f
@@ -32,7 +31,6 @@ public class Saltar : MonoBehaviour
         childB.name = "Body";
         childB.transform.SetParent(transform);
         childB.transform.position = new Vector2(transform.position.x, transform.position.y);
-        body = transform.FindChild("Body");
         pointVector = new Vector2(0.55f, 0.25f);
         rb.gravityScale = 2;
     }
