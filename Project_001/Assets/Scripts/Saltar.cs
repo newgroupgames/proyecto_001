@@ -7,12 +7,10 @@ public class Saltar : MonoBehaviour
     Transform pies;
     Vector2 dobleSalto;
 
-    Movimiento movCs;
     Transform body;
     Vector2 pointVector;
 
     float fuerzaDeSalto = 8f;// 1 cuadro es 6.5f
-    float gravity;                  //para wall jump
     bool puedeSaltar = true;        
     bool puedeSaltarDoble = true;   //para doble salto
     bool saltando = false;          
@@ -37,14 +35,12 @@ public class Saltar : MonoBehaviour
         body = transform.FindChild("Body");
         pointVector = new Vector2(0.55f, 0.25f);
         rb.gravityScale = 2;
-        movCs = GetComponent<Movimiento>();
     }
     void Start()
     {
         layerSuelo = 1 << 8;
         layerPisable = 1 << 12;
         layers = layerSuelo | layerPisable;
-        gravity = rb.gravityScale;
     }
     void Update()
     {
