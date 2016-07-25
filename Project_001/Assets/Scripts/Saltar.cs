@@ -21,7 +21,7 @@ public class Saltar : MonoBehaviour
     bool enLaPared = false;         
     int layerSuelo;                 
     int layerPisable;               
-    int layers;                     
+    int layers;
     void Awake()
     {
         GameObject child = new GameObject();
@@ -90,11 +90,11 @@ public class Saltar : MonoBehaviour
     {
         if (col.transform.position.x > transform.position.x)
         {
-            rb.AddForce((Vector2.left * 20f) + (Vector2.up * fuerzaDeSalto*1.2f), ForceMode2D.Impulse);
+            rb.AddForce((Vector2.left * 10) + (Vector2.up * fuerzaDeSalto*1.2f), ForceMode2D.Impulse);
         }
         else if (col.transform.position.x < transform.position.x)
         {
-            rb.AddForce((Vector2.right * 20f) + (Vector2.up * fuerzaDeSalto*1.2f), ForceMode2D.Impulse);
+            rb.AddForce((Vector2.right * 10) + (Vector2.up * fuerzaDeSalto*1.2f), ForceMode2D.Impulse);
         }
     }
     public bool GetPuedeSaltar() { return puedeSaltar; }
